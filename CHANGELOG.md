@@ -1,5 +1,12 @@
 # figma-developer-mcp
 
+## [0.11.1](https://github.com/GLips/Figma-Context-MCP/compare/v0.11.0...v0.11.1) (2026-04-20)
+
+
+### Bug Fixes
+
+* surface Figma 403 response body to help LLMs self-heal based on actual error ([#360](https://github.com/GLips/Figma-Context-MCP/issues/360)) ([12280ba](https://github.com/GLips/Figma-Context-MCP/commit/12280ba22a8d398c35db360a336356430dd0b182))
+
 ## [0.11.0](https://github.com/GLips/Figma-Context-MCP/compare/v0.10.1...v0.11.0) (2026-04-20)
 
 
